@@ -1,2 +1,2 @@
 # drumKitJS
-Javascript Drum Kit. Tap drum set to play beats
+Javascript Drum Kit. Tap keyboard set to play beats
